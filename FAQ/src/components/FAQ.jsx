@@ -4,7 +4,7 @@ import Accordion from "./Accordion";
 export default function FAQ(){
 
     return(
-        <div className="w-[53%] h-[60%] bg-white rounded-[30px] flex items-center drop-shadow-[0_20px_15px_#1d1e35]">
+        <div className="w-[1100px] h-[600px] bg-white rounded-[30px] flex items-center drop-shadow-[0_20px_15px_#1d1e35]">
             <div className="w-[50%] h-full rounded-tl-[29px] rounded-bl-[29px] relative">
                 <div className="h-full overflow-hidden">
                     <img 
